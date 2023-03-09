@@ -1,0 +1,3 @@
+git stash apply stash@{6}	 Apply stash from the stash list, but does not remove the stash from the list.
+git commit --amend	 Edit previous commit message.
+git commit --date="`date --date='2 day ago'`"git commit --date="Jun 13 18:30:25 IST 2015"	 Commit in the past. Newer versions of Git allow `--date="2 days ago"` usage.

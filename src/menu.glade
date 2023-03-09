@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface >
+<menu id='app-menu'>
+  <section>
+    <item>
+      <attribute name='label' translatable="yes">Search</attribute>
+      <attribute name='action'>win.buscar</attribute>
+    </item>
+    <item>
+      <attribute name='label' translatable="yes">Favourites</attribute>
+      <attribute name='action'>win.favs</attribute>
+    </item>
+    <item>
+      <attribute name='label' translatable="yes">About CheatSheet</attribute>
+      <attribute name='action'>win.acerca</attribute>
+    </item>
+  </section>
+</menu>
+</interface>

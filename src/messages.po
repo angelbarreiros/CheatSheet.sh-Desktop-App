@@ -1,0 +1,98 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-02 14:07+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: views.py:62
+msgid "Search..."
+msgstr ""
+
+#: views.py:77
+msgid "Cancel"
+msgstr ""
+
+#: views.py:91
+msgid "Search specific command..."
+msgstr ""
+
+#: views.py:120
+msgid "Try typing a command in the search bar"
+msgstr ""
+
+#: views.py:137
+msgid "Know more"
+msgstr ""
+
+#: views.py:164
+msgid "Favourite commands:"
+msgstr ""
+
+#: views.py:234
+msgid "Fav"
+msgstr ""
+
+#: views.py:262
+msgid "UnFav"
+msgstr ""
+
+#: views.py:313
+msgid "No command found"
+msgstr ""
+
+#: views.py:315
+msgid "Select a line"
+msgstr ""
+
+#: views.py:329
+msgid "Command:"
+msgstr ""
+
+#: views.py:330
+msgid "Description:"
+msgstr ""
+
+#: views.py:340
+msgid "LOADING COMMANDS..."
+msgstr ""
+
+#: views.py:350
+msgid "Connection error , reconnecting..."
+msgstr ""
+
+#: views.py:461 menu.glade:14
+msgid "About CheatSheet"
+msgstr ""
+
+#: views.py:482
+msgid "<b>IPM CheatSheet</b>"
+msgstr ""
+
+#: views.py:486
+msgid "Command search"
+msgstr ""
+
+#: views.py:492
+msgid "Credits:"
+msgstr ""
+
+#: menu.glade:6
+msgid "Search"
+msgstr ""
+
+#: menu.glade:10
+msgid "Favourites"
+msgstr ""

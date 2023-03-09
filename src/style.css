@@ -1,0 +1,29 @@
+frame{
+    font-size: 22px;
+    color: rgb(197, 5, 139);
+    background-color: rgb(243, 209, 220);
+
+}
+
+scrolledwindow{
+    color: rgb(252, 9, 199);
+}
+
+entry{
+    color: rgb(230, 102, 202);
+    font-style: italic;
+}
+
+button{
+
+    color: rgb(230, 63, 132);
+}
+spinner{
+    color: rgb(230, 63, 132) ;
+}
+
+window{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
